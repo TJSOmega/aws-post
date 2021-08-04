@@ -1,0 +1,23 @@
+{
+  "name": "aws-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJSOmega/aws-post.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJSOmega/aws-post/issues"
+  },
+  "homepage": "https://github.com/TJSOmega/aws-post#readme",
+  "dependencies": {
+    "dynamoose": "^2.7.3"
+  }
+}
